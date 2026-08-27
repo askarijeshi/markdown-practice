@@ -54,3 +54,5 @@ In the book the author introduces two types of people to the reader. **Nonessent
 * [Book](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382)
 * [Author](https://gregmckeown.com/)
 
+![The book](https://th.bing.com/th/id/OIP._H1jNqGs9oKIY9bwJVm1XgHaHa?w=174&h=180&c=7&r=0&o=7&pid=1.7&rm=3)
+
