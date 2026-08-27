@@ -30,16 +30,23 @@ In the book the author introduces two types of people to the reader. **Nonessent
 # 21 Day Challenge
 
 * week one
-  1. jjjj
-    1. jjjjj
+  1. Explore
+      * Create space to think
+      * Identify what truly matters
+      * Observe where your time goes
+      * Identify activities that produce the greatest contribution
+      * Learn to distinguish signal from noise
 
-* week two  
-  2. jjj  
-    2. jjjj
+* week two
+  1. Eliminate
+      * Try saying no
+      * Set clear boundaries
+      * Remove nonessential tasks
+      * Let go of things that do not align with your priorities
 
-* day two  
-  2. jjj  
-    2. jjjj
-
-          
-
+* week three  
+  1. Execute  
+       * Build routines
+       * Schedule priorities
+       * Protect sleep and renewal
+       * Make essential actions easier and automatic
