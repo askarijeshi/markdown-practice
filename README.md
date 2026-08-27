@@ -25,28 +25,32 @@ In the book the author introduces two types of people to the reader. **Nonessent
 |Reacts to others' agendas. | Protects time deliberately.|
 |Pursues many opportunities. | Pursues many opportunities.|
 
-### hhh
-
 # 21 Day Challenge
 
 * week one
   1. Explore
-      * Create space to think
-      * Identify what truly matters
-      * Observe where your time goes
-      * Identify activities that produce the greatest contribution
-      * Learn to distinguish signal from noise
+      - [ ]  Create space to think
+      - [ ] Identify what truly matters
+      - [ ] Observe where your time goes
+      - [ ] Identify activities that produce the greatest contribution
+      - [ ] Learn to distinguish signal from noise
 
 * week two
   1. Eliminate
-      * Try saying no
-      * Set clear boundaries
-      * Remove nonessential tasks
-      * Let go of things that do not align with your priorities
+      - [ ] Try saying no
+      - [ ] Set clear boundaries
+      - [ ] Remove nonessential tasks
+      - [ ] Let go of things that do not align with your priorities
 
 * week three  
   1. Execute  
-       * Build routines
-       * Schedule priorities
-       * Protect sleep and renewal
-       * Make essential actions easier and automatic
+       - [ ] Build routines
+       - [ ] Prioritize priorities
+       - [ ] Protect sleep
+       - [ ] Make essential actions easier and automatic
+
+### Extra
+
+* [Book](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382)
+* [Author](https://gregmckeown.com/)
+
